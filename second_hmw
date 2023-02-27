@@ -1,0 +1,52 @@
+<h1>Hilal Şükran Topal</h1>
+<h2>Hakkımda</h2>
+<h3>Selam, ben Hilal! 16 yaşındayım ve 11.sınıf yazılım geliştirme bölümünde öğrenim gören genç bir bilgi canavarıyım :D </h3>
+
+</br> <!-- burada kendimi tanıttıktan sonra hobilerimi ayrı tanımlamak amacıyla satır atlama etiketi kullandım. -->
+
+<h3>Modernist roman okumayı sever, çocukken izlediğim her bir yabancı filmi büyüyünce tekrardan ingilizce orjinal haliyle bir kez daha izlemeyi çok severim. Çünkü bunun dil öğreniminde büyük bir etkisi olduğunu düşünürüm.</h3>
+
+<h6>(Sanırım biraz uzun cümle oldu ama kendimi ifade ederken cümlelerimi ilmek ilmek adeta bir atkı örüyormuşçasına kurmayı severim, bu da başka bir özelliğim sanırım ^-^</h6>
+<!-- buradaki h6 etiketi normal satırlardan küçük olup, açıklama niteliğinde kullanıldı. -->
+
+<h3><span style="color: darkcyan;">İlgi Alanlarım</span></h3>
+
+<ol type="1">
+    <li>Fitness</li>
+    <li>Programlama</li>
+    <ul>
+        <li><a href="https://tr.wikipedia.org/wiki/C_Sharp">C#</a></li>
+        <li><a href="https://www.javascript.com/">JavaScript</a></li>
+        <li><a href="https://www.arduino.cc/">Arduino</a></li>
+        <li><a href="https://www.python.org/">Phyton</a></li>
+    </ul>
+    <li>Pişirme</li>
+    <ul>
+        <li>Kurabiyeler</li>
+        <li>Meyveli kekler</li>
+    </ul>
+    <li>Kitaplar</li>
+    <ul>
+        <li>Dünya Edebiyatı</li>
+        <ul>
+            <li>Momo</li>
+            <li>Franz Kafka Aforizmalar</li>
+            <li>Suç ve Ceza</li>
+            <li>Savaş ve Barış</li>
+        </ul>
+        <li>Türk Edebiyatı</li>
+        <ul>
+            <li><a href="https://www.goodreads.com/book/show/758901.Tutunamayanlar">Tutunamayanlar</a></li>
+            <li>Korkuyu Beklerken</li>
+            <li>Tehlikeli Oyunlar</li>
+            <li>Oyunlarla Yaşayanlar</li>
+            <li>Muhayyelat</li>
+            <li>Şimdiki Çocuklar Harika</li>
+        </ul>
+    </ul>
+</ol>
+
+<img src="oguz_aty.jpg" width="200" height="250" alt="Oğuz Atay"/> 
+</br>
+
+<h3><p><span style="color: chartreuse;">Oğuz Atay</span>, 1997 yılında UNESCO tarafından 20. yüzyıl Türk edebiyatının en seçkin eseri olarak kabul edilen "Tutunamayanlar" romanının yazarı, Türk edebiyatında postmodern metin denildiğinde akla gelen ilk isimlerden biri olan, roman, oyun, öykü yazarı, mühendis ve öğretim üyesidir.</p></h3>
