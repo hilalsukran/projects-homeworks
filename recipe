@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lezzetli ve Sağlıklı Tarif</title>
+</head>
+<body>
+    <h1><img src="images/oat_icon.png" width="40px" height="35px" /><span style="color: brown;">Yulaflı Tarçın Topları</span><img src="images/oat_icon.png" width="40px" height="35px" /></h1>
+    <p>Merhabalar <img src="images/emoji.jpg" width="20px" height="20px"/>, sayfamıza hoşgeldiniz. Bugün sizlerle yeni bir tarifle beraberiz...</p>
+    <p>Spor yapıp, sağlıklı beslenirken hangimiz paketlenmiş gıdalardan uzak durabilir ki? </br>
+    "Ben hayatta tatlısız yapamam!", dediğinizi duyar gibiyim <img src="images/emoji.jpg" width="20" height="20"/> Siz de sağlıklı kaçamaklar istiyorsanız, işte bu tarif tam size göre! <img src="images/kalp.jpg" width="25px" height="25px"/> </br>
+    </br>
+    Haydi tarife!
+    </p>
+
+    <h1><u style="color: burlywood;"><span style="color:burlywood ">Malzemeler</span></u></h1>
+    <table>
+        <tr>
+            <td></td>
+        </tr>
+        <tr>
+           <td>
+         <ul>
+            <li>2 su bardağı yulaf ezmesi</li>
+            <li>1 olgun muz</li>
+            <li>2 yemek kaşığı kakao</li>
+            <li>2 tatlı kaşığı tarçın</li>
+            <li>3 yemek kaşığı pekmez</li>
+            <li>Bir avuç taze fındık</li>
+         </ul> </td>
+         <td></td>
+            <td><img src="images/yulaftoplari.jpg" width="250" height="200"/></td>
+        </tr>
+    </table>
+
+    <h1><u style="color: lightgray;"><span style="color: lightslategray;">Tarçınlı Muzlu Yulaf Topları Nasıl Yapılır;</span></u></h1>
+    <ol>
+        <li>Yulaf, muz ve fındığı robotta çekin. </li>
+        <li>Sonrasında bir kaba alıp içerisine tarçın ve pekmezi ekleyip karıştırın.</li>
+        <li>Kıvam almaya başladığında yoğurup istediğinizi boyutta toplar haline getirin.</li>
+        <li>Buzdolabında yarım saat bekletin ve hazır!</li>
+    </ol>
+    <h1 style="color: sienna;">
+        <b>
+            <e><i>AFİYET OLSUN!</i></e>
+        </b>
+    </h1>
+    
+   
+
+
+</body>
+</html>
